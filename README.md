@@ -2,8 +2,8 @@
 
 ## Función para obtención del Clima
 
-Desarrollado en talleres practicos correspondientes al curso de Pyhton 
-para principiantes de la Universidad Popular de Gral.Levalle,Cba.
+Desarrollado en talleres prácticos correspondientes al curso de Python 
+para principiantes de la Universidad Popular de Gral.Levalle, Cba.
 
 ---
 
