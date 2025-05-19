@@ -1,4 +1,4 @@
-## Laboratorio: Estación Metereológica
+## Laboratorio: Estación Meteorológica 
 
 ## Función para obtención del Clima
 
